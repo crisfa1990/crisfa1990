@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @crisfa1990
-- 👀 I’m interested in PHP (Laravel, Wordpress), Bootstrap 4&5.
+- 👀 Estoy interesado en PHP (Laravel, Wordpress), Bootstrap 4&5, Tailwind.css, con el objetivo de convertirme en desarrollador web full stack.
