@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy **Cris Faúndez** (@crisfa1990), tu **Desarrollador Web Full Stack** de confianza.
+👋 ¡Hola! Soy (@crisfa1990), tu **Desarrollador Web Full Stack** de confianza.
 
 🚀 **¿Buscas una presencia web impactante o una aplicación que impulse tu negocio?** ¡Has llegado al lugar correcto! Me apasiona transformar ideas en soluciones digitales robustas y atractivas.
 
