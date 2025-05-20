@@ -21,7 +21,7 @@
 * 📱 **Aplicaciones Web Progresivas (PWAs):** Desarrollo de aplicaciones que ofrecen una experiencia nativa en la web, con funcionalidades offline y notificaciones push.
 * 🌐 **Desarrollo Full Stack:** Capacidad para abordar proyectos de principio a fin, desde la planificación y el diseño hasta la implementación y el despliegue.
 
-**Habilidades Adicionales (Tu Ventaja Competitiva):**
+**Habilidades Adicionales:**
 
 * ☁️ **Conocimiento de Servicios en la Nube:** Familiaridad con plataformas como AWS, Google Cloud o Azure para el despliegue y la gestión de aplicaciones.
 * 🔒 **Seguridad Web:** Implementación de buenas prácticas para proteger las aplicaciones contra vulnerabilidades comunes (OWASP Top 10).
